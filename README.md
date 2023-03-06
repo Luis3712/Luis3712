@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Application Engineer
 -----------------------------
 
-I am a Software Application who likes to program in Python and Java projects where i could participate and colaborate with others!
+I am a Software Application Developer who likes to program in Python and Java projects where i could participate and colaborate with others!
 
 * 🌍  I'm based in Zapopan, Jalisco. Mexico
 * ✉️  You can contact me at [Luis\_Mejia\_Villeda@outlook.com](mailto:Luis_Mejia_Villeda@outlook.com)
